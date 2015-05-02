@@ -26,7 +26,7 @@ public class View extends JFrame implements ActionListener{
 	
 	public View(Controller controller){
 		this.controller = controller;
-		this.setTitle("Chat ooujhoud  Server");
+		this.setTitle("Chat   Server");
 		initializeComponenets();
 		setInterface();
 		this.setLayout(new BorderLayout());
