@@ -1,5 +1,7 @@
 package com.app.SkypeServer;
 
-public class DatabaseManager {
+import java.net.ConnectException;
 
+public class DatabaseManager {
+	private ConnectException con;
 }
