@@ -54,7 +54,7 @@ public class ChatWindow extends JFrame implements ActionListener {
 
 	public ChatWindow() throws UnknownHostException, IOException,
 			ClassNotFoundException {
-		super("SkypeChat");
+		super("Skype----Chat");
 		this.setCurrentUser(currentUser = JOptionPane
 				.showInputDialog("Enter Username"));
 		this.initializeComponents();
