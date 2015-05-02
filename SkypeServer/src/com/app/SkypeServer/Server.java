@@ -10,6 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Set;
 
+/*I am wondering*/
 public class Server {
 	private static View view;
 	private volatile Thread svr;
